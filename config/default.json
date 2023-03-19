@@ -1,9 +1,9 @@
 {
-  "port": 7300,
-  "host": "0.0.0.0",
+  "port": 8300,
+  "host": "127.0.0.1",
   "pageSize": 30,
   "proxy": false,
-  "db": "mongodb://localhost/easy-mock",
+  "db": "mongodb://kite:1234@localhost:27017/easy-mock",
   "unsplashClientId": "",
   "redis": {
     "keyPrefix": "[Easy Mock]",

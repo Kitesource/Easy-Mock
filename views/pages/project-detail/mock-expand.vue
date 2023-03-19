@@ -41,7 +41,7 @@
 import {
   getJavaScriptEntities,
   getObjectiveCEntities
-} from 'swagger-parser-mock/lib/entity'
+} from '@kite0219/swagger-parser-mock2/lib/entity'
 import jsBeautify from 'js-beautify/js/lib/beautify'
 import DataTypeExpand from './data-type-expand'
 
