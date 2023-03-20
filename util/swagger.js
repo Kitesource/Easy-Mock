@@ -5,7 +5,7 @@
 const _ = require('lodash')
 const path = require('path')
 const Mock = require('mockjs')
-const swaggerParserMock = require('@kite0219/swagger-parser-mock2')
+const swaggerParserMock = require('swagger-parser-mock2')
 
 const util = require('./')
 const { MockProxy } = require('../proxy')
